@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning full-stack development, including UX/UI, HTML&CSS, Javascript, NodeJS, Express, REST APIs & PostgreSQL.
 <!--
 **skdejong/skdejong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
