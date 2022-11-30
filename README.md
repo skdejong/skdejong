@@ -1,5 +1,6 @@
-### Hi there, I'm Stephanie 👋
-🌱 I’m currently learning full-stack development, including UX/UI, HTML&CSS, Javascript, NodeJS, Express, REST APIs & PostgreSQL.
+### Hi, I'm Stephanie 👋
+🌱 I’m currently learning full-stack development, including UX/UI, HTML&CSS, Javascript, NodeJS, Express, REST APIs & PostgreSQL through the School of Code bootcamp. I've also learned some Python through Code First Girls. 
+
 <!--
 **skdejong/skdejong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
