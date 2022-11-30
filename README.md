@@ -1,6 +1,5 @@
 ### Hi there, I'm Stephanie 👋
 🌱 I’m currently learning full-stack development, including UX/UI, HTML&CSS, Javascript, NodeJS, Express, REST APIs & PostgreSQL.
-Programming Languages and Tools: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 <!--
 **skdejong/skdejong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
