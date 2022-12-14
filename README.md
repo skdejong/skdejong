@@ -5,7 +5,7 @@ I have been learning to code since May 2022 after switching careers. I first too
 
 In September 2022, I started the #100 Days of Code Challenge. See my #100daysofcode log here: https://github.com/skdejong/100-days-of-code/blob/master/log.md
 
-🌍  I'm based in London
+🌍  I'm based in South East England.
 
 ### Skills
 
