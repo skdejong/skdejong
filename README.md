@@ -28,6 +28,8 @@ In September 2022, I started the #100 Days of Code Challenge. See my #100daysofc
 
 ### Badges
 
+<p align="left"> <a href="https://www.codewars.com/users/skdejong/badges/micro"></a></p>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/skdejong"><img src="https://github-readme-stats.vercel.app/api?username=skdejong&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="skdejong's GitHub stats" /></a>
