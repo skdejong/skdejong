@@ -1,9 +1,7 @@
 Hi 👋 My name is Stephanie
 ==========================
 
-I have been learning to code since May 2022 after switching careers. I first took an Introduction to Python and Apps Course with Code First Girls. I then studied Web Development (Full-Stack JavaScript Development) through the School of Code bootcamp from Sept 2022 - Jan 2023. 
-
-In September 2022, I started the #100 Days of Code Challenge. See my #100daysofcode log here: https://github.com/skdejong/100-days-of-code/blob/master/log.md
+I have been learning to code since May 2022 after switching careers. I first took an Introduction to Python and Apps Course with Code First Girls. I then studied Web Development (Full-Stack JavaScript Development) through the School of Code bootcamp from Sept 2022 - Jan 2023. View my [#100 Days of Code](https://github.com/skdejong/100DaysOfCode) log that I wrote during the bootcamp. 
 
 🌍  I'm based in South East England.
 
