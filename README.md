@@ -32,7 +32,7 @@ I have been learning to code since May 2022 after switching careers. I first too
 
 ### Badges
 
-<img src="https://www.codewars.com/users/skdejong/badges/micro"></img>
+<img src="https://www.codewars.com/users/skdejong/badges/small"></img>
 
 <b>My GitHub Stats</b>
 
