@@ -24,6 +24,8 @@ I started learning to code in May 2022 after switching careers. I first took an 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
 ### Socials
@@ -33,6 +35,11 @@ I started learning to code in May 2022 after switching careers. I first took an 
 ### Badges
 
 <img src="https://www.codewars.com/users/skdejong/badges/small"></img>
+<p align="left">
+<img src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"></img>
+<img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png"></img>
+<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></img>
+<img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></img>
 
 <b>My GitHub Stats</b>
 
