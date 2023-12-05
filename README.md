@@ -39,6 +39,7 @@ I started learning to code in May 2022 after switching careers. I first took an 
 <img src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png"></img>
 <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></img>
 <img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></img>
+<img src="https://images.credly.com/size/110x110/images/f6da0c8b-4a5f-4862-82b0-d221a082dd53/8b4992ff-f696-452c-8899-1a4178248f0d.png"></img>
 
 <b>My GitHub Stats</b>
 
