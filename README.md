@@ -41,9 +41,3 @@ I started learning to code in May 2022 after switching careers. I first took an 
 <img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></img>
 <img src="https://images.credly.com/size/110x110/images/f6da0c8b-4a5f-4862-82b0-d221a082dd53/8b4992ff-f696-452c-8899-1a4178248f0d.png"></img>
 <img src="https://images.credly.com/size/110x110/images/57bc03c5-a84d-42a2-a362-5f4fb6dd6363/d386d34d-8919-4a5b-8a57-04cf3c4738bf.png"></img>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/skdejong"><img src="https://github-readme-stats.vercel.app/api?username=skdejong&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="skdejong's GitHub stats" /></a>
-
-<a href="http://www.github.com/skdejong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skdejong&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
