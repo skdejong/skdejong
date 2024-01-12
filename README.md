@@ -51,5 +51,5 @@ I started learning to code in May 2022 after switching careers. I first took an 
   <img height=200 align="center" src="https://github-readme-stats-nine-beta-72.vercel.app/api?username=skdejong" />
 </a>
 <a href="https://github.com/skdejong/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-nine-beta-72.vercel.app/api/top-langs?username=skdejong&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-nine-beta-72.vercel.app/api/top-langs?username=skdejong&layout=compact&langs_count=8&card_width=320" />
 </a>
