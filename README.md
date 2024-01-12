@@ -47,8 +47,4 @@ I started learning to code in May 2022 after switching careers. I first took an 
 <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></img>
 
 ### Stats
-<img src="https://github-readme-stats-nine-beta-72.vercel.app/api?username=skdejong"></img>
-
-[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdejong)](https://github.com/anuraghazra/github-readme-stats)
-
 [![skdejong's GitHub stats](https://github-readme-stats-nine-beta-72.vercel.app/api?username=skdejong)](https://github.com/skdejong/github-readme-stats)
