@@ -48,3 +48,5 @@ I started learning to code in May 2022 after switching careers. I first took an 
 
 ### Stats
 [![skdejong's GitHub stats](https://github-readme-stats-nine-beta-72.vercel.app/api?username=skdejong)](https://github.com/skdejong/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-nine-beta-72.vercel.app/api/top-langs/?username=skdejong)](https://github.com/skdejong/github-readme-stats)
