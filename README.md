@@ -37,7 +37,7 @@ I started learning to code in May 2022 after switching careers. I first took an 
 <p align="left">
 <img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></img>
 
-<img src="https://images.credly.com/size/110x110images/580b53ec-6b8f-45f9-9cb6-645f99ad76d3/59e735e3-1556-4e93-82da-e8dda5f0a57f.png"></img>
+<img src="https://images.credly.com/size/110x110/images/580b53ec-6b8f-45f9-9cb6-645f99ad76d3/59e735e3-1556-4e93-82da-e8dda5f0a57f.png"></img>
 
 <img src="https://images.credly.com/size/110x110/images/16ea2791-6e80-4c7f-b3c3-aaaef287616b/8b4992ff-f696-452c-8899-1a4178248f0d.png"></img>
 <img src="https://images.credly.com/size/110x110/images/57bc03c5-a84d-42a2-a362-5f4fb6dd6363/d386d34d-8919-4a5b-8a57-04cf3c4738bf.png"></img>
