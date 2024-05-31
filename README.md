@@ -36,9 +36,6 @@ I started learning to code in May 2022 after switching careers. I first took an 
 <img src="https://www.codewars.com/users/skdejong/badges/small"></img>
 <p align="left">
 <img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"></img>
-<img src="https://images.credly.com/size/110x110/images/580b53ec-6b8f-45f9-9cb6-645f99ad76d3/59e735e3-1556-4e93-82da-e8dda5f0a57f.png"></img>
-<img src="https://images.credly.com/size/110x110/images/12eefea0-5d23-4e3c-96b0-d2bab34ba444/8b4992ff-f696-452c-8899-1a4178248f0d.png"></img>
-<img src="https://images.credly.com/size/110x110/images/6bcc1a3f-efd5-436c-a019-dff6beb7189a/08f5928a-a5a1-4ace-8139-e3c0a44031a0.png"></img>
 
 ### Certifications
 
